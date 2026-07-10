@@ -10,7 +10,11 @@
     "prefer_related_applications": false,
     "scope": "/",
     "lang": "en",
-    "categories": ["lifestyle", "health", "wellness"],
+    "categories": [
+        "lifestyle",
+        "health",
+        "wellness"
+    ],
     "icons": [
         {
             "src": "icons/Icon-192.png",
